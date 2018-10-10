@@ -5,6 +5,16 @@ Cualquier contribuidor debe ser alumno (o profesor); es abierto, esto quiere dec
 
 Para ver la agenda solo tienes que entrar en la pestaña de wiki dentro del repositorio. Si no la encuentras o tienes problema puedes entrar a través de [este enlace](https://github.com/Jose-Robles/AGENDA_DAM_18-20/wiki). :open_file_folder:
 
+| Lunes  | Martes | Miércoles | Jueves | Viernes |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| EED  | SINF  | PRO  | PRO  | SINF  |
+| EED  | SINF  | PRO  | PRO  | SINF  |
+| LM  | SINF  | PRO  | LM  | SINF  |
+| Descanso  | Descanso  | Descanso  | Descanso  | Descanso  |
+| BBDD  | PRO  | BBDD  | EED  | FOL  |
+| BBDD  | PRO  | BBDD  | LM  | FOL  |
+| BBDD  | PRO  | BBDD  | LM  | FOL  |
+
 ### Índice :books:
 * [Base de Datos](https://github.com/Jose-Robles/AGENDA_DAM_18-20/wiki/Base-De-Datos)
 * [Entornos de Desarrollo](https://github.com/Jose-Robles/AGENDA_DAM_18-20/wiki/Entorno-de-Desarrollo)
