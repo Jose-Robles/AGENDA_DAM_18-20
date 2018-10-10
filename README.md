@@ -9,11 +9,11 @@ Para ver la agenda solo tienes que entrar en la pestaña de wiki dentro del repo
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| LM  | Content Cell  | Content Cell  | LM  | Content Cell  |
 | Descanso  | Descanso  | Descanso  | Descanso  | Descanso  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| BBDD  | Content Cell  | BBDD  | Content Cell  | FOL  |
+| BBDD  | Content Cell  | BBDD  | LM  | FOL  |
+| BBDD  | Content Cell  | BBDD  | LM  | FOL  |
 
 ### Índice :books:
 * [Base de Datos](https://github.com/Jose-Robles/AGENDA_DAM_18-20/wiki/Base-De-Datos)
