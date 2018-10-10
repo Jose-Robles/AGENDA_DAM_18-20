@@ -1,5 +1,5 @@
-# AGENDA 1º DAM : :notebook_with_decorative_cover:  :pencil:
-Esta es una agenda comunitaria creada por y para el alumnado del Grado de Formación Superior de Desarrollo de Aplicaciones Multiplataforma.
+# AGENDA DAM (18-20) : :notebook_with_decorative_cover:  :pencil:
+Esta es una agenda comunitaria creada por y para el alumnado del CFGS de Desarrollo de Aplicaciones Multiplataforma.
 
 Cualquier contribuidor debe ser alumno (o profesor); es abierto, esto quiere decir que cualquiera puede ver nuestra agenda.
 
