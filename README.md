@@ -10,7 +10,7 @@ Para ver la agenda solo tienes que entrar en la pestaña de wiki dentro del repo
 ### Índice :books:
 * [Programación](https://github.com/Jose-Robles/AGENDA_DAM_18-20/wiki/Programaci%C3%B3n)
 * [Base de Datos](https://github.com/Jose-Robles/AGENDA_DAM_18-20/wiki/Base-De-Datos)
-* [Entornos de desarrollo](https://github.com/Jose-Robles/AGENDA_DAM_18-20/wiki/Entorno-de-Desarrollo)
-* [Lenguaje de marcas](https://github.com/Jose-Robles/AGENDA_DAM_18-20/wiki/Lenguaje-de-Marcas)
+* [Entornos de Desarrollo](https://github.com/Jose-Robles/AGENDA_DAM_18-20/wiki/Entorno-de-Desarrollo)
+* [Lenguaje de Marcas](https://github.com/Jose-Robles/AGENDA_DAM_18-20/wiki/Lenguaje-de-Marcas)
 * [Sistemas Informáticos](https://github.com/Jose-Robles/AGENDA_DAM_18-20/wiki/Sistemas-Inform%C3%A1ticos)
 * [Formación y Orientación Laboral](https://github.com/Jose-Robles/AGENDA_DAM_18-20/wiki/Formaci%C3%B3n-y-Orientaci%C3%B3n-Laboral)
