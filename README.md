@@ -7,11 +7,11 @@ Para ver la agenda solo tienes que entrar en la pestaña de wiki dentro del repo
 
 | Lunes  | Martes | Miércoles | Jueves | Viernes |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| EED  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| EED  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | LM  | Content Cell  | Content Cell  | LM  | Content Cell  |
 | Descanso  | Descanso  | Descanso  | Descanso  | Descanso  |
-| BBDD  | Content Cell  | BBDD  | Content Cell  | FOL  |
+| BBDD  | Content Cell  | BBDD  | EED  | FOL  |
 | BBDD  | Content Cell  | BBDD  | LM  | FOL  |
 | BBDD  | Content Cell  | BBDD  | LM  | FOL  |
 
