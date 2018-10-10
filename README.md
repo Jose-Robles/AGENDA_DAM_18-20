@@ -3,19 +3,7 @@ Esta es una agenda comunitaria creada por y para el alumnado del CFGS de Desarro
 
 Cualquier contribuidor debe ser alumno (o profesor); es abierto, esto quiere decir que cualquiera puede ver nuestra agenda.
 
-Las reglas de comportamiento respecto a los contribuidores de este repositorio están estipuladas en el apartado de [normas de conducta]().:straight_ruler:
-
 Para ver la agenda solo tienes que entrar en la pestaña de wiki dentro del repositorio. Si no la encuentras o tienes problema puedes entrar a través de [este enlace](https://github.com/Jose-Robles/AGENDA_DAM_18-20/wiki). :open_file_folder:
-
-| Lunes  | Martes | Miércoles | Jueves | Viernes |
-| ------------- | ------------- | ------------- | ------------- | ------------- |
-| EED  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| EED  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| LM  | Content Cell  | Content Cell  | LM  | Content Cell  |
-| Descanso  | Descanso  | Descanso  | Descanso  | Descanso  |
-| BBDD  | Content Cell  | BBDD  | EED  | FOL  |
-| BBDD  | Content Cell  | BBDD  | LM  | FOL  |
-| BBDD  | Content Cell  | BBDD  | LM  | FOL  |
 
 ### Índice :books:
 * [Base de Datos](https://github.com/Jose-Robles/AGENDA_DAM_18-20/wiki/Base-De-Datos)
