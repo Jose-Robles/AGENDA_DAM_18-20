@@ -27,3 +27,8 @@ Para ver la agenda solo tienes que entrar en la pestaña de wiki dentro del repo
 | BBDD  | PRO  | BBDD  | EED  | FOL  |
 | BBDD  | PRO  | BBDD  | LM  | FOL  |
 | BBDD  | PRO  | BBDD  | LM  | FOL  |
+
+
+## Contributors
+* [José Robles Bastidas](https://github.com/Jose-Robles)
+* [Borja Sevilla Ruiz](https://github.com/bsevrui)
