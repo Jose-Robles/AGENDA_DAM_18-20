@@ -29,8 +29,8 @@ Esta es una agenda comunitaria creada por y para el alumnado del CFGS de Desarro
  
  ## Contributors
  
- [José Robles Bastidas](https://github.com/Jose-Robles)
+ [**José Robles Bastidas**](https://github.com/Jose-Robles)
  
- [Borja Sevilla Ruiz](https://github.com/bsevrui)
+ [**Borja Sevilla Ruiz**](https://github.com/bsevrui)
  
- [Iván Pérez Molina](https://github.com/ivanperezmolina)
+ [**Iván Pérez Molina**](https://github.com/ivanperezmolina)
