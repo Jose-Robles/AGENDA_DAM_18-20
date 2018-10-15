@@ -31,6 +31,6 @@ Para ver la agenda solo tienes que entrar en la pestaña de wiki dentro del repo
 
 ## Contributors
 
-<p style = "box-shadow: inset 4px 0 0 #2cbe4e">  <a href="https://github.com/Jose-Robles">José Robles Bastidas</a><br>
+<p style ="border: 4px solid #2cbe4e">  <a href="https://github.com/Jose-Robles">José Robles Bastidas</a><br>
   <a href="https://github.com/bsevrui">Borja Sevilla Ruiz</a>
   </p>
