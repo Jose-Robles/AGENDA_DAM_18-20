@@ -1,5 +1,6 @@
 # AGENDA DAM (18-20) : :notebook_with_decorative_cover:  :pencil:
 
+
 ### Presentación
 Esta es una agenda comunitaria creada por y para el alumnado del CFGS de Desarrollo de Aplicaciones Multiplataforma.
 
