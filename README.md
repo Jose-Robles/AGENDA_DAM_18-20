@@ -27,6 +27,8 @@ Esta es una agenda comunitaria creada por y para el alumnado del CFGS de Desarro
  | BBDD  | PRO  | BBDD  | LM  | FOL  |
  
  
+ ### <p align="right"><Strong>Acceso a la [*Moodle*](http://iescampanillas.com/moodle/login/index.php)</Strong></p>
+ 
  ## Contributors
  
  [**José Robles Bastidas**](https://github.com/Jose-Robles)
