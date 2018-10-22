@@ -7,6 +7,8 @@ Esta es una agenda comunitaria creada por y para el alumnado del CFGS de Desarro
  
  Para ver la agenda solo tienes que entrar en la pestaña de wiki dentro del repositorio. Si no la encuentras o tienes problema puedes entrar a través de [**este enlace**](https://github.com/Jose-Robles/AGENDA_DAM_18-20/wiki). :open_file_folder:
  
+  ### <p align="right"><Strong>Acceso a la [*Moodle*](http://iescampanillas.com/moodle/login/index.php)</Strong></p>
+ 
  ### Índice :books:
  * [Base de Datos](https://github.com/Jose-Robles/AGENDA_DAM_18-20/wiki/Base-De-Datos)
  * [Entornos de Desarrollo](https://github.com/Jose-Robles/AGENDA_DAM_18-20/wiki/Entornos-de-Desarrollo)
@@ -25,9 +27,6 @@ Esta es una agenda comunitaria creada por y para el alumnado del CFGS de Desarro
  | BBDD  | PRO  | BBDD  | EED  | FOL  |
  | BBDD  | PRO  | BBDD  | LM  | FOL  |
  | BBDD  | PRO  | BBDD  | LM  | FOL  |
- 
- 
- ### <p align="right"><Strong>Acceso a la [*Moodle*](http://iescampanillas.com/moodle/login/index.php)</Strong></p>
  
  ## Contributors
  
