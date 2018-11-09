@@ -1,6 +1,6 @@
-La Agenda a sido trasladada a un sitio web alojado en el siguiente [Enlace](https://deepjose.com/)
+La Agenda está ubicada en el siguiente [Enlace](https://deepjose.com/)
 
-De momento las partes funcionales son el Índice, la página de Formación y Orientación Laboral, la página de Programación y la página de Sistemas Informáticos.
+De momento las partes funcionales son el Índice, la página de Formación y Orientación Laboral, la página de Programación y la página de Sistemas Informáticos. (A falta de que los respectivos colaboradores se pongan al día).
 
 ## CONTRIBUIDORES
 
