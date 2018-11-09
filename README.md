@@ -5,6 +5,9 @@ De momento las partes funcionales son el Índice, la página de Formación y Ori
 ## CONTRIBUIDORES
 
 [José Robles Bastidas](https://github.com/Jose-Robles)
+
 [Borja Sevilla Ruiz](https://github.com/bsevrui)
+
 [Iván Pérez Molina](https://github.com/ivanperezmolina)
-[Jorge García](https://github.com/jorgegarcia1996)
+
+[Jorge García Molina](https://github.com/jorgegarcia1996)
