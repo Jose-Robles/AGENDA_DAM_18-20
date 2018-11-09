@@ -17,17 +17,6 @@ Esta es una agenda comunitaria creada por y para el alumnado del CFGS de Desarro
  * [Programación](https://github.com/Jose-Robles/AGENDA_DAM_18-20/wiki/Programaci%C3%B3n)
  * [Sistemas Informáticos](https://github.com/Jose-Robles/AGENDA_DAM_18-20/wiki/Sistemas-Inform%C3%A1ticos)
  
- ### Horario
- | Lunes  | Martes | Miércoles | Jueves | Viernes |
- | ------------- | ------------- | ------------- | ------------- | ------------- |
- | EED  | SINF  | PRO  | PRO  | SINF  |
- | EED  | SINF  | PRO  | PRO  | SINF  |
- | LM  | SINF  | PRO  | LM  | SINF  |
- | Descanso  | Descanso  | Descanso  | Descanso  | Descanso  |
- | BBDD  | PRO  | BBDD  | EED  | FOL  |
- | BBDD  | PRO  | BBDD  | LM  | FOL  |
- | BBDD  | PRO  | BBDD  | LM  | FOL  |
- 
  ## Contributors
  
  [**José Robles Bastidas**](https://github.com/Jose-Robles)
