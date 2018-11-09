@@ -31,15 +31,9 @@
         border-bottom: solid grey 0.10px;
         
       }
-      table {
+      #tabla, tr, td, th {
         border: solid black 3px;
-        text-align: center;
         border-collapse: collapse;
-        margin: 0px auto;
-        background-color: white;
-      }
-      th, td {
-        border: solid black 3px;
       }
       #tercero {
         background-color: grey;
@@ -111,113 +105,127 @@
     </div>
   </nav>
   <!-- Primer Bloque -->
-  <div id="primero" class="container-fluid bg-1 text-center">
-    <h1>Presentación</h1>
-    <p class="parrafo">Esta es una agenda comunitaria creada por y para el alumnado del CFGS de Desarrollo de
-      Aplicaciones Multiplataforma. Cualquiera puede ver nuestra agenda.</p>
-    <p class="parrafo">Las reglas de comportamiento respecto a los contribuidores de este repositorio están estipuladas
-      en el apartado de <a href="https://github.com/Jose-Robles/AGENDA_DAM_18-20/blob/master/CODE_OF_CONDUCT.md">Normas
-        de Conducta</a>.📏</p>
-  </div>
-  <!-- Segundo Bloque -->
-  <div id="segundo" class="container-fluid bg-2 text-center">
-    <h1>Horario</h1>
-    <table>
-      <tr>
-        <th>Hora</th>
-        <th>Lunes</th>
-        <th>Martes</th>
-        <th>Miércoles</th>
-        <th>Jueves</th>
-        <th>Viernes</th>
-      </tr>
-      <tr>
-        <td>08:15 - 09:15</td>
-        <td rowspan="2">EED</td>
-        <td rowspan="3">SINF</td>
-        <td rowspan="3">PROG</td>
-        <td rowspan="2">PROG</td>
-        <td rowspan="2">SINF</td>
-      </tr>
-      <tr>
-        <td>09:15 - 10:15</td>
-      </tr>
-      <tr>
-        <td>10:15 - 11:15</td>
-        <td>LM</td>
-        <td>LM (Khan)</td>
-        <td>Emil</td>
-      </tr>
-      <tr>
-        <td>11:15 - 11:45</td>
-        <td colspan="5">Descanso</td>
-      </tr>
-      <tr>
-        <td>11:45 - 12:40</td>
-        <td rowspan="3">BBBDD</td>
-        <td rowspan="3">PROG</td>
-        <td rowspan="3">BBDD</td>
-        <td>EED</td>
-        <td rowspan="3">FOL</td>
-      </tr>
-      <tr>
-        <td>12:40 - 13:35</td>
-        <td rowspan="2">LM</td>
-      </tr>
-      <tr>
-        <td>13:35 - 14:30</td>
-      </tr>
-    </table>
-  </div>
-  <!-- Tercer Bloque -->
-  <div id="tercero" class="container-fluid bg-3 text-center">
-    <a name="baseDatos"></a>
-    <h1>Base de Datos</h1>
-    <h2>Ejercicios</h2>
-    <h2>Exámenes</h2>
-  </div>
-  <!-- Cuarto Bloque -->
-  <div id="cuarto" class="container-fluid bg-4 text-center">
-    <a name="entornosDesarrollo"></a>
-    <h1>Entornos de Desarrollo</h1>
-    <h2>Ejercicios</h2>
-    <h2>Exámenes</h2>
-  </div>
-  <!-- Quinto Bloque -->
-  <div id="quinto" class="container-fluid bg-5 text-center">
-    <a name="formacionLaboral"></a>
-    <h1>Formación y Orientación Laboral</h1>
-    <h2>Ejercicios</h2>
-    <h2>Exámenes</h2>
-  </div>
-  <!-- Sexto Bloque -->
-  <div id="sexto" class="container-fluid bg-6 text-center">
-    <a name="lenguajeMarcas"></a>
-    <h1>Lenguaje de Marcas</h1>
-    <h2>Ejercicios</h2>
-    <h2>Exámenes</h2>
-  </div>
-  <!-- Séptimo Bloque -->
-  <div id="septimo" class="container-fluid bg-7 text-center">
-    <a name="programacion"></a>
-    <h1>Programación</h1>
-    <h2>Ejercicios</h2>
-    <h2>Exámenes</h2>
-  </div>
-  <!-- Octavo Bloque -->
-  <div id="octavo" class="container-fluid bg-8 text-center">
-    <a name="sistemasInformaticos"></a>
-    <h1>Sistemas Informáticos</h1>
-    <h2>Ejercicios</h2>
-    <h2>Exámenes</h2>
-  </div>
+  <section>
+    <div id="primero" class="container-fluid bg-1 text-center">
+      <h1>Presentación</h1>
+      <p class="parrafo">Esta es una agenda comunitaria creada por y para el alumnado del CFGS de Desarrollo de
+        Aplicaciones Multiplataforma. Cualquiera puede ver nuestra agenda.</p>
+      <p class="parrafo">Las reglas de comportamiento respecto a los contribuidores de este repositorio están
+        estipuladas
+        en el apartado de <a href="https://github.com/Jose-Robles/AGENDA_DAM_18-20/blob/master/CODE_OF_CONDUCT.md">Normas
+          de Conducta</a>.📏</p>
+    </div>
+    <!-- Segundo Bloque -->
+    <div id="segundo" class="container-fluid bg-2 text-center">
+      <div class="table-responsive">
+        <table id="tabla" class="table">
+          <thead>
+            <tr>
+              <th>Hora</th>
+              <th>Lunes</th>
+              <th>Martes</th>
+              <th>Miércoles</th>
+              <th>Jueves</th>
+              <th>Viernes</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>08:15 - 09:15</td>
+              <td rowspan="2">EED</td>
+              <td rowspan="3">SINF</td>
+              <td rowspan="3">PROG</td>
+              <td rowspan="2">PROG</td>
+              <td rowspan="2">SINF</td>
+            </tr>
+            <tr>
+              <td>09:15 - 10:15</td>
+            </tr>
+            <tr>
+              <td>10:15 - 11:15</td>
+              <td>LM</td>
+              <td>LM (Khaan)</td>
+              <td>Emil</td>
+            </tr>
+            <tr>
+              <td>11:15 - 11:45</td>
+              <td colspan="5">Descanso</td>
+            </tr>
+            <tr>
+              <td>11:45 - 12:40</td>
+              <td rowspan="3">BBDD</td>
+              <td rowspan="3">PROG</td>
+              <td rowspan="3">BBDD</td>
+              <td>EED</td>
+              <td rowspan="3">FOL</td>
+            </tr>
+            <tr>
+              <td>12:40 - 13:35</td>
+              <td rowspan="2">LM</td>
+            </tr>
+            <tr>
+              <td>13:35 - 14:30</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+    <!-- Tercer Bloque -->
+    <div id="tercero" class="container-fluid bg-3 text-center">
+      <a name="baseDatos"></a>
+      <h1>Base de Datos</h1>
+      <h2>Ejercicios</h2>
+      <h2>Exámenes</h2>
+    </div>
+    <!-- Cuarto Bloque -->
+    <div id="cuarto" class="container-fluid bg-4 text-center">
+      <a name="entornosDesarrollo"></a>
+      <h1>Entornos de Desarrollo</h1>
+      <h2>Ejercicios</h2>
+      <h2>Exámenes</h2>
+    </div>
+    <!-- Quinto Bloque -->
+    <div id="quinto" class="container-fluid bg-5 text-center">
+      <a name="formacionLaboral"></a>
+      <h1>Formación y Orientación Laboral</h1>
+      <h2>Ejercicios</h2>
+      <h2>Exámenes</h2>
+    </div>
+    <!-- Sexto Bloque -->
+    <div id="sexto" class="container-fluid bg-6 text-center">
+      <a name="lenguajeMarcas"></a>
+      <h1>Lenguaje de Marcas</h1>
+      <h2>Ejercicios</h2>
+      <h2>Exámenes</h2>
+    </div>
+    <!-- Séptimo Bloque -->
+    <div id="septimo" class="container-fluid bg-7 text-center">
+      <a name="programacion"></a>
+      <h1>Programación</h1>
+      <h2>Ejercicios</h2>
+      <h2>Exámenes</h2>
+    </div>
+    <!-- Octavo Bloque -->
+    <div id="octavo" class="container-fluid bg-8 text-center">
+      <a name="sistemasInformaticos"></a>
+      <h1>Sistemas Informáticos</h1>
+      <h2>Ejercicios</h2>
+      <h2>Exámenes</h2>
+    </div>
+  </section>
   <!-- Pie de Página -->
   <footer id="footer" class="container-fluid bg-9 text-center">
     <div class="container-fluid">
       <div class="row">
-        <div class="col-sm-4"><p><a href="https://github.com/Jose-Robles">José Robles Bastidas</a> (Colaborador y Hosting)</p></div>
-        <div class="col-sm-4"><p><a href="https://github.com/bsevrui">Borja Sevilla Ruiz</a> (Colaborador y Diseño Web)</p></div>
-        <div class="col-sm-4"><p><a href="https://github.com/ivanperezmolina">Iván Pérez Molina</a> (Colaborador)</p></div>
+        <div class="col-sm-4">
+          <p><a href="https://github.com/Jose-Robles">José Robles Bastidas</a> (Colaborador y Hosting)</p>
+        </div>
+        <div class="col-sm-4">
+          <p><a href="https://github.com/bsevrui">Borja Sevilla Ruiz</a> (Colaborador y Diseño Web)</p>
+        </div>
+        <div class="col-sm-4">
+          <p><a href="https://github.com/ivanperezmolina">Iván Pérez Molina</a> (Colaborador)</p>
+        </div>
       </div>
     </div>
   </footer>
