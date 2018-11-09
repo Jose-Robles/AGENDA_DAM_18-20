@@ -23,6 +23,11 @@
       height: 1200px;
       background-color: grey;
     }
+    #tabla, tr, td, th {
+      border: solid black 3px;
+      border-collapse: collapse;
+      background-color: lightgray;
+    }
     #footer {
       background-color: rgb(52, 58, 64);
       color: grey;
@@ -70,21 +75,92 @@
   </nav>
   <!-- Cuerpo de la página -->
   <section>
-    <!-- Primer Bloque -->
-    <div id="primero" class="container-fluid bg-1 text-center">
+    <!-- Exámenes -->
+    <div id="examenes" class="container-fluid bg-1 text-center">
+      <h1>EXÁMENES</h1>
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Fecha</th>
+            <th>Temario</th>
+            <th>Anotaciones</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>24/10/18</td>
+            <td>Temas 1-5</td>
+            <td>1º Trimestre</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <!-- Ejercicios -->
+    <div id="ejercicios" class="container-fluid bg-2 text-center">
+      <h1>EJERCICIOS</h1>
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Fecha</th>
+            <th>Contenido</th>
+            <th>Anotaciones</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>13/11/18</td>
+            <td>Resto de Ejercicios</td>
+            <td>Tema 07. Arrays Simples.</td>
+          </tr>
+          <tr>
+            <td>08/11/18</td>
+            <td>Mínimo hasta el Ejercicio 10</td>
+            <td>Tema 07. Arrays Simples.</td>
+          </tr>
+          <tr>
+            <td>07/11/18</td>
+            <td>Mínimo hasta el Ejercicio 5</td>
+            <td>Tema 07. Arrays Simples.</td>
+          </tr>
+          <tr>
+            <td>06/11/18</td>
+            <td>Terminar (todos) los ejercicios</td>
+            <td>Tema 06</td>
+          </tr>
+          <tr>
+            <td>31/10/18</td>
+            <td>Mínimo hasta el Ejercicio 10</td>
+            <td>Tema 06</td>
+          </tr>
+          <tr>
+            <td>24/10/18</td>
+            <td>Resto de Ejercicios</td>
+            <td>Tema 05</td>
+          </tr>
+          <tr>
+            <td>16/10/18</td>
+            <td>Hasta el Ejercicio 36</td>
+            <td>Tema 05</td>
+          </tr>
+          <tr>
+            <td>11/10/18</td>
+            <td>Hacer 5 ó 6 Ejercicios más</td>
+            <td>Tema 05.</td>
+          </tr>
+          <tr>
+            <td>10/10/18</td>
+            <td>Hasta el Ejercicio 15 (También el 16 si te ves capacitado)</td>
+            <td>Tema 05</td>
+          </tr>
+        </tbody>
+      </table>
     </div>
   </section>
   <!-- Pie de Página -->
   <footer id="footer" class="container-fluid bg-9 text-center">
     <div class="container-fluid">
       <div class="row">
-        <div class="col-sm-4">
-          <p><a href="https://github.com/Jose-Robles">José Robles Bastidas</a> (Colaborador y Hosting)</p>
-        </div>
-        <div class="col-sm-4">
-          <p><a href="https://github.com/bsevrui">Borja Sevilla Ruiz</a> (Colaborador y Diseño Web)</p>
-        </div>
-        <div class="col-sm-4">
+        <div class="col-sm-12">
           <p><a href="https://github.com/ivanperezmolina">Iván Pérez Molina</a> (Colaborador)</p>
         </div>
       </div>
