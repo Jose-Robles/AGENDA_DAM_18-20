@@ -11,3 +11,5 @@ De momento las partes funcionales son el Índice, la página de Formación y Ori
 [Iván Pérez Molina](https://github.com/ivanperezmolina)
 
 [Jorge García Molina](https://github.com/jorgegarcia1996)
+
+[Ernesto Velasco]()
